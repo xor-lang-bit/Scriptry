@@ -8,7 +8,7 @@
     "Volume 6": "volume6.json",
     "Volume 7": "volume7.json",
     "Volume 8": "volume8.json",
-    "Volume 9": "volume9.json",
+    "Volume 9": "volume9.json"
   },
   "Nicene series 1": {
     "Volume 1-1": "volume1-1.json",
@@ -24,7 +24,7 @@
     "Volume 11-1": "volume11-1.json",
     "Volume 12-1": "volume12-1.json",
     "Volume 13-1": "volume13-1.json",
-    "Volume 14-1": "volume14-1.json",
+    "Volume 14-1": "volume14-1.json"
   },
   "Nicene series 2": {
     "Volume 1-2": "volume1-2.json",
@@ -40,6 +40,6 @@
     "Volume 11-2": "volume11-2.json",
     "Volume 12-2": "volume12-2.json",
     "Volume 13-2": "volume13-2.json",
-    "Volume 14-2": "volume14-2.json",
+    "Volume 14-2": "volume14-2.json"
   }
 }
